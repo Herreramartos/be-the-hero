@@ -46,4 +46,7 @@ O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar
 
 Esse projeto está sob a licença MIT.
 
+
 ---
+
+Esse arquivo Readme foi copiado da internet.
