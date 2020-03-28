@@ -44,8 +44,6 @@ O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ❤️ by **Rocketseat/mpgxc**
