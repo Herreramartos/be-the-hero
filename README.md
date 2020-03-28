@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".github/logo.svg" width="200px" />
+    <img alt="Semana OmniStack" src="frontend/src/assets/logo.svg" width="200px" />
 </h1>
 
 <h2 align="center">
 
-  <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
+  <img alt="Semana OmniStack" src="frontend/src/assets/rocket.svg" width="200px" />
   <br/>
   🚀 Semana Omnistack 11.0
 </h2>
@@ -42,15 +42,6 @@ Extras:
 ## 💻 Projeto
 
 O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs com campanhas abertas.
-
-## 🤔 Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## :memo: Licença
 
